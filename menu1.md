@@ -21,4 +21,4 @@ julia> newsite("QuantumPortal", template="celeste")
 
 After that, I have deployed the website using [GitHub Pages](https://pages.github.com/). The instructions are [here](https://franklinjl.org/workflow/deploy/#deploying_your_website).
 
-[^1] Julia Language is an open-source project developed and maintained by a community of volunteers. You can find more information about Julia [here](https://julialang.org/).
+[^1]: Julia Language is an open-source project developed and maintained by a community of volunteers. You can find more information about Julia [here](https://julialang.org/).
